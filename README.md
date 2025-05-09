@@ -33,7 +33,7 @@ View the live version of the main portfolio site here:
 ## Contact
 
 - **Email**: kavi22052004@gmail.com 
-- **GitHub**: [kavi-22](https://github.com/kavi-22)  
+- **GitHub**: [Kaviyarasu-C](https://github.com/kavi-22/Kaviyarasu-C)  
 - **LinkedIn**: [Kaviyarasu C](https://www.linkedin.com/in/kaviyarasu-c-bsc/)
 
 ---
