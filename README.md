@@ -26,7 +26,7 @@ Each project is in its own folder. You can open the `index.html` file in any fol
 ## Live Portfolio
 
 View the live version of the main portfolio site here:  
-**[https://your-username.github.io/portfolio/](https://kavi-22/Kaviyarasu-C.github.io/portfolio/)**
+**[https://your-username.github.io/portfolio/](https://kavi-22/Kaviyarasu-C/portfolio/)**
 
 > Note: GitHub Pages only serves the `index.html` in the root folder. You can create separate GitHub repos for each project if you want them all hosted live individually.
 
