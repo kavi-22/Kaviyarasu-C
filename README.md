@@ -11,11 +11,11 @@ I'm a junior developer passionate about learning web technologies and building u
 ### 1. [Portfolio](./)
 - A responsive personal website (index.html in root) that includes information about me and links to my projects.
 
-### 2. [Weather Dashboard](./weather-dashboard)
+### 2. [Weather Dashboard](https://github.com/kavi-22/Weather-Dashboard)
 - A simple web app that fetches and displays current weather for any city using a Open-weather API.
 - **Technologies**: HTML, CSS, JavaScript, Fetch API
 
-### 3. [Academic Percentage Calculator](./academic-percentage-calculator)
+### 3. [Academic Percentage Calculator](https://github.com/kavi-22/Academic-percentage-calculator-)
 - A tool that calculates academic percentages based on subject marks.
 - **Technologies**: HTML, CSS, JavaScript
 
@@ -33,7 +33,7 @@ View the live version of the main portfolio site here:
 ## Contact
 
 - **Email**: kavi22052004@gmail.com 
-- **GitHub**: [Kaviyarasu-C](https://github.com/kavi-22/Kaviyarasu-C)  
+- **GitHub**: [Kaviyarasu-C](https://github.com/kavi-22)  
 - **LinkedIn**: [Kaviyarasu C](https://www.linkedin.com/in/kaviyarasu-c-bsc/)
 
 ---
